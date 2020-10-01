@@ -1,6 +1,6 @@
-# COVID Tracking Project
+# COVID-19 Tracking Project
 
-The COVID Tracking Project collects information from 50 U.S. states, the District of Columbia, and 5 other U.S. territories to provide the most comprehensive testing data we can collect for the novel coronavirus, SARS-CoV-2.
+The COVID-19 Tracking Project collects information from 50 U.S. states, the District of Columbia, and 5 other U.S. territories to provide the most comprehensive testing data we can collect for the novel coronavirus, SARS-CoV-2.
 
 This repository is for the project's **website**: https://covidtracking.com/.
 
@@ -26,7 +26,7 @@ Then, install all dependencies by running:
 npm install
 ```
 
-The website is built from two separate data sources: our own API for COVID data, and Contentful for content. To download the most recent COVID data and setup a `.env` file with a copy of read-only API keys to Contentful, run:
+The website is built from two separate data sources: our own API for COVID-19 data, and Contentful for content. To download the most recent COVID data and setup a `.env` file with a copy of read-only API keys to Contentful, run:
 
 ```shell
 npm run setup
